@@ -69,7 +69,7 @@ export default {
         valuesFrom: "value"
       })
     )
-    console.log(this.data)
+    // console.log(this.data)
     
   },
   methods: {
